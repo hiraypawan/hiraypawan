@@ -56,6 +56,20 @@ Verified focus areas:
 
 ---
 
+## Contribution Heatmap
+
+<img src="assets/heatmap.svg" alt="Decorative contribution map — not live data" width="100%" />
+
+---
+
+## Statistics
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=hiraypawan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=10070C&title_color=F8F0F3&text_color=C77B9B" alt="Pawan Hiray GitHub Stats" />
+</a>
+
+---
+
 ## Activity
 
 Public repositories: 30+  
@@ -73,5 +87,6 @@ Contribution focus: open-source tools, AI integrations, student platforms
 ---
 
 <div align="center">
-  <p><em>Built with verified data only. No fabricated metrics.</em></p>
+  <img src="assets/footer.svg" alt="Footer" width="100%" />
+  <p><em>Built with verified data only. No fabricated metrics or private details.</em></p>
 </div>
