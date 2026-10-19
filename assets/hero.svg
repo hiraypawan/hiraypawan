@@ -1,64 +1,108 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="100%" height="100%" style="background:#10070C; font-family: Georgia, 'Times New Roman', serif;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 420" width="100%" height="100%" style="background:#10070C; font-family: 'Georgia', 'Times New Roman', serif;">
   <defs>
     <linearGradient id="heroBgGrad" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#10070C" />
       <stop offset="50%" stop-color="#190B12" />
       <stop offset="100%" stop-color="#451126" />
-      <animate attributeName="x1" values="0;1;0" dur="12s" repeatCount="indefinite" />
-      <animate attributeName="y1" values="0;0;1" dur="10s" repeatCount="indefinite" />
+      <animate attributeName="x1" values="0;1;0" dur="14s" repeatCount="indefinite" />
+      <animate attributeName="y1" values="0;0;1" dur="11s" repeatCount="indefinite" />
     </linearGradient>
     <linearGradient id="accentGrad" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#701A3D" />
       <stop offset="50%" stop-color="#C77B9B" />
       <stop offset="100%" stop-color="#F8F0F3" />
-      <animate attributeName="x1" values="0;1;0" dur="8s" repeatCount="indefinite" />
+      <animate attributeName="x1" values="0;1;0" dur="9s" repeatCount="indefinite" />
+    </linearGradient>
+    <linearGradient id="btnGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#451126" />
+      <stop offset="100%" stop-color="#701A3D" />
     </linearGradient>
     <filter id="heroGlow" x="-20%" y="-20%" width="160%" height="160%">
-      <feDropShadow dx="0" dy="0" stdDeviation="10" flood-color="#C77B9B" flood-opacity="0.35" />
+      <feDropShadow dx="0" dy="0" stdDeviation="12" flood-color="#C77B9B" flood-opacity="0.4" />
+    </filter>
+    <filter id="btnGlow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#701A3D" flood-opacity="0.35" />
     </filter>
   </defs>
 
-  <rect x="0" y="0" width="1200" height="260" fill="url(#heroBgGrad)" />
+  <rect x="0" y="0" width="1400" height="420" fill="url(#heroBgGrad)" />
 
   <!-- Fine technical grid -->
-  <g stroke="#701A3D" stroke-width="0.6" opacity="0.4">
-    <line x1="150" y1="0" x2="150" y2="260" />
-    <line x1="300" y1="0" x2="300" y2="260" />
-    <line x1="450" y1="0" x2="450" y2="260" />
-    <line x1="600" y1="0" x2="600" y2="260" />
-    <line x1="750" y1="0" x2="750" y2="260" />
-    <line x1="900" y1="0" x2="900" y2="260" />
-    <line x1="1050" y1="0" x2="1050" y2="260" />
-    <line x1="0" y1="65" x2="1200" y2="65" />
-    <line x1="0" y1="130" x2="1200" y2="130" />
-    <line x1="0" y1="195" x2="1200" y2="195" />
+  <g stroke="#701A3D" stroke-width="0.6" opacity="0.35">
+    <line x1="200" y1="0" x2="200" y2="420" />
+    <line x1="400" y1="0" x2="400" y2="420" />
+    <line x1="600" y1="0" x2="600" y2="420" />
+    <line x1="800" y1="0" x2="800" y2="420" />
+    <line x1="1000" y1="0" x2="1000" y2="420" />
+    <line x1="1200" y1="0" x2="1200" y2="420" />
+    <line x1="0" y1="105" x2="1400" y2="105" />
+    <line x1="0" y1="210" x2="1400" y2="210" />
+    <line x1="0" y1="315" x2="1400" y2="315" />
   </g>
 
   <!-- Restrained orbital geometry -->
   <g opacity="0.35" stroke="#C77B9B" stroke-width="1" fill="none">
-    <circle cx="1080" cy="140" r="30">
-      <animate attributeName="r" values="28;36;28" dur="6s" repeatCount="indefinite" />
+    <circle cx="1260" cy="230" r="40">
+      <animate attributeName="r" values="36;46;36" dur="7s" repeatCount="indefinite" />
     </circle>
-    <circle cx="1080" cy="140" r="14" fill="#701A3D" stroke="none" />
+    <circle cx="1260" cy="230" r="16" fill="#701A3D" stroke="none" />
+    <circle cx="1100" cy="160" r="24">
+      <animate attributeName="r" values="22;30;22" dur="5s" repeatCount="indefinite" />
+    </circle>
   </g>
 
   <!-- Animated drawn path -->
-  <path d="M 420 145 Q 520 110 620 145 T 820 145" stroke="url(#accentGrad)" stroke-width="3" fill="none" stroke-linecap="round" filter="url(#heroGlow)">
-    <animate attributeName="stroke-dasharray" values="0,300;300,0;0,300" dur="6s" repeatCount="indefinite" />
+  <path d="M 500 220 Q 650 170 800 220 T 1100 220" stroke="url(#accentGrad)" stroke-width="3" fill="none" stroke-linecap="round" filter="url(#heroGlow)">
+    <animate attributeName="stroke-dasharray" values="0,400;400,0;0,400" dur="7s" repeatCount="indefinite" />
   </path>
 
   <!-- Name -->
-  <text x="600" y="105" text-anchor="middle" fill="#F8F0F3" font-size="52" font-weight="bold" letter-spacing="5" filter="url(#heroGlow)">
+  <text x="700" y="165" text-anchor="middle" fill="#F8F0F3" font-size="64" font-weight="bold" letter-spacing="8" filter="url(#heroGlow)">
     PAWAN HIRAY
   </text>
 
   <!-- Role line -->
-  <text x="600" y="155" text-anchor="middle" fill="#C77B9B" font-size="20" letter-spacing="6" opacity="0.95">
-    AI PRODUCT DEVELOPER · MUMBAI
+  <text x="700" y="215" text-anchor="middle" fill="#C77B9B" font-size="22" letter-spacing="8" opacity="0.95">
+    AI PRODUCT DEVELOPER · MUMBAI, INDIA
+  </text>
+
+  <!-- Tagline -->
+  <text x="700" y="250" text-anchor="middle" fill="#E5B5C7" font-size="16" letter-spacing="4" font-style="italic" opacity="0.9">
+    Engineering intelligence. Designing experiences.
+  </text>
+
+  <!-- Info line (verified only) -->
+  <text x="700" y="290" text-anchor="middle" fill="#F8F0F3" font-size="14" letter-spacing="3" opacity="0.85">
+    WEB APPS · AI INTEGRATIONS · BROWSER TOOLS · NEXT.JS · TYPESCRIPT · GEMINI · CLOUDFLARE
   </text>
 
   <!-- Glowing underline -->
-  <rect x="500" y="165" width="200" height="4" rx="2" fill="url(#accentGrad)">
-    <animate attributeName="width" values="160;240;160" dur="4s" repeatCount="indefinite" />
+  <rect x="600" y="305" width="200" height="5" rx="3" fill="url(#accentGrad)">
+    <animate attributeName="width" values="160;240;160" dur="5s" repeatCount="indefinite" />
   </rect>
+
+  <!-- Link buttons (mirroring reference CTA style) -->
+  <g id="btn-portfolio" cursor="pointer" filter="url(#btnGlow)">
+    <rect x="420" y="335" width="200" height="44" rx="8" fill="url(#btnGrad)" stroke="#C77B9B" stroke-width="1.5" />
+    <text x="520" y="363" text-anchor="middle" fill="#F8F0F3" font-size="14" font-weight="bold" letter-spacing="2">PORTFOLIO</text>
+    <animate attributeName="fill" values="#451126;#701A3D;#451126" dur="4s" repeatCount="indefinite" />
+  </g>
+
+  <g id="btn-github" cursor="pointer" filter="url(#btnGlow)">
+    <rect x="640" y="335" width="180" height="44" rx="8" fill="url(#btnGrad)" stroke="#C77B9B" stroke-width="1.5" />
+    <text x="730" y="363" text-anchor="middle" fill="#F8F0F3" font-size="14" font-weight="bold" letter-spacing="2">GITHUB</text>
+    <animate attributeName="fill" values="#451126;#701A3D;#451126" dur="4s" repeatCount="indefinite" />
+  </g>
+
+  <g id="btn-linkedin" cursor="pointer" filter="url(#btnGlow)">
+    <rect x="840" y="335" width="180" height="44" rx="8" fill="url(#btnGrad)" stroke="#C77B9B" stroke-width="1.5" />
+    <text x="930" y="363" text-anchor="middle" fill="#F8F0F3" font-size="14" font-weight="bold" letter-spacing="2">LINKEDIN</text>
+    <animate attributeName="fill" values="#451126;#701A3D;#451126" dur="4s" repeatCount="indefinite" />
+  </g>
+
+  <g id="btn-resume" cursor="pointer" filter="url(#btnGlow)">
+    <rect x="1040" y="335" width="180" height="44" rx="8" fill="url(#btnGrad)" stroke="#C77B9B" stroke-width="1.5" />
+    <text x="1130" y="363" text-anchor="middle" fill="#F8F0F3" font-size="14" font-weight="bold" letter-spacing="2">RESUME</text>
+    <animate attributeName="fill" values="#451126;#701A3D;#451126" dur="4s" repeatCount="indefinite" />
+  </g>
 </svg>
