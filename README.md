@@ -71,7 +71,6 @@ Verified focus from portfolio and repositories:
 
 | # | Product | Stack | Description | Evidence |
 |---|---|---|---|---|
-| **01** | **PolicyGuard AI** (simulated card layout — reference style) | — | — | — |
 | **01** | **OneBrain** | Next.js · TypeScript · Cloudflare Workers | Voice-first workspace for thoughts | <a href="https://github.com/hiraypawan/OneBrain">Code</a> · <a href="https://pawanhiray.vercel.app/work/onebrain">Case study</a> |
 | **02** | **MUStudentsUnited** | React · Node.js · Express | Student notes + community platform | <a href="https://mumbaistudentsunited.com">Live</a> · <a href="https://pawanhiray.vercel.app/work/mustudentsunited">Case study</a> |
 | **03** | **Smarty** | TypeScript · Chrome MV3 · Gemini AI | Browser extension for research tasks | <a href="https://github.com/hiraypawan/smarty">Repo</a> · <a href="https://pawanhiray.vercel.app/work/smarty">Case study</a> |
@@ -82,6 +81,8 @@ Verified focus from portfolio and repositories:
 - **VibeCoder Pro** — browser coding workspace with Monaco editor + AI chat (Next.js · Cloudflare Workers)
 - **PeoplePole** — map-based civic issue platform (React · Vite · Leaflet · Express · MongoDB)
 - **Hand Cricket Pro** — cricket simulation with bot play and career mode (JavaScript · Cloudflare Pages)
+- **SmartBotX** — Telegram AI bot using OpenAI API (Node.js · OpenAI API · Telegram API)
+- **YtStop** — YouTube productivity Chrome extension (JavaScript · Chrome MV3)
 
 *Project descriptions and implementations are owner-reported. No independently audited metrics are implied.*
 
