@@ -3,7 +3,7 @@
 
 <!-- Hero Portrait -->
 <a href="https://pawanhiray.vercel.app/" rel="nofollow">
-  <img src="assets/hero.svg" width="100%" alt="Pawan Hiray — AI Product Developer. Engineering intelligence. Designing experiences." style="max-width: 100%;">
+  <img src="assets/hero-portrait.svg" width="100%" alt="Pawan Hiray — AI Product Developer. Engineering intelligence. Designing experiences." style="max-width: 100%;">
 </a>
 
 <p align="center" dir="auto">
@@ -25,7 +25,7 @@
 
 <img src="assets/achievement-motif.svg" width="100%" alt="Verified GitHub achievements: YOLO, Pull Shark, Pair Extraordinaire." style="max-width: 100%;">
 
-<p style="color:#C77B9B; font-size:12px; margin-top:8px;">Only verified public achievements shown. No unverified awards or statistics included.</p>
+<p style="color:#C77B9B; font-size:12px; margin-top:8px; text-align:center;">Only verified public achievements shown. No unverified awards or statistics included.</p>
 
 <!-- Selected Work -->
 <img src="assets/title-work.svg" width="100%" alt="03 · Selected Work — Products, not assignments." style="max-width: 100%;">
@@ -56,13 +56,9 @@
             <rect width="300" height="220" fill="#10070C" rx="12" stroke="#451126" stroke-width="1"/>
             <text x="150" y="100" text-anchor="middle" fill="#C77B9B" font-size="14" letter-spacing="2" font-family="Georgia, serif">ONEBRAIN</text>
             <text x="150" y="120" text-anchor="middle" fill="#E5B5C7" font-size="12" font-family="Georgia, serif">voice-first workspace</text>
-            <circle cx="90" cy="160" r="14" fill="none" stroke="#701A3D" stroke-width="2" opacity="0.6">
-              <animate attributeName="r" values="12;18;12" dur="5s" repeatCount="indefinite" />
-            </circle>
+            <circle cx="90" cy="160" r="14" fill="none" stroke="#701A3D" stroke-width="2" opacity="0.6" />
             <circle cx="150" cy="160" r="10" fill="#C77B9B" />
-            <circle cx="210" cy="160" r="14" fill="none" stroke="#701A3D" stroke-width="2" opacity="0.6">
-              <animate attributeName="r" values="12;18;12" dur="6s" repeatCount="indefinite" />
-            </circle>
+            <circle cx="210" cy="160" r="14" fill="none" stroke="#701A3D" stroke-width="2" opacity="0.6" />
           </svg>
         </div>
       </td>
@@ -96,13 +92,9 @@
             <rect width="300" height="220" fill="#10070C" rx="12" stroke="#451126" stroke-width="1"/>
             <text x="150" y="100" text-anchor="middle" fill="#C77B9B" font-size="14" letter-spacing="2" font-family="Georgia, serif">MUSTUDENTS</text>
             <text x="150" y="120" text-anchor="middle" fill="#E5B5C7" font-size="12" font-family="Georgia, serif">notes + community</text>
-            <circle cx="90" cy="160" r="14" fill="none" stroke="#701A3D" stroke-width="2" opacity="0.6">
-              <animate attributeName="r" values="12;18;12" dur="5s" repeatCount="indefinite" />
-            </circle>
+            <circle cx="90" cy="160" r="14" fill="none" stroke="#701A3D" stroke-width="2" opacity="0.6" />
             <circle cx="150" cy="160" r="10" fill="#C77B9B" />
-            <circle cx="210" cy="160" r="14" fill="none" stroke="#701A3D" stroke-width="2" opacity="0.6">
-              <animate attributeName="r" values="12;18;12" dur="6s" repeatCount="indefinite" />
-            </circle>
+            <circle cx="210" cy="160" r="14" fill="none" stroke="#701A3D" stroke-width="2" opacity="0.6" />
           </svg>
         </div>
       </td>
@@ -136,13 +128,9 @@
             <rect width="300" height="220" fill="#10070C" rx="12" stroke="#451126" stroke-width="1"/>
             <text x="150" y="100" text-anchor="middle" fill="#C77B9B" font-size="14" letter-spacing="2" font-family="Georgia, serif">SMARTY</text>
             <text x="150" y="120" text-anchor="middle" fill="#E5B5C7" font-size="12" font-family="Georgia, serif">gemini-powered extension</text>
-            <circle cx="90" cy="160" r="14" fill="none" stroke="#701A3D" stroke-width="2" opacity="0.6">
-              <animate attributeName="r" values="12;18;12" dur="5s" repeatCount="indefinite" />
-            </circle>
+            <circle cx="90" cy="160" r="14" fill="none" stroke="#701A3D" stroke-width="2" opacity="0.6" />
             <circle cx="150" cy="160" r="10" fill="#C77B9B" />
-            <circle cx="210" cy="160" r="14" fill="none" stroke="#701A3D" stroke-width="2" opacity="0.6">
-              <animate attributeName="r" values="12;18;12" dur="6s" repeatCount="indefinite" />
-            </circle>
+            <circle cx="210" cy="160" r="14" fill="none" stroke="#701A3D" stroke-width="2" opacity="0.6" />
           </svg>
         </div>
       </td>
@@ -184,12 +172,18 @@
   </table>
 </div>
 
-<!-- Commit Log -->
+<!-- Commit Log (Live Contribution Graph) -->
 <img src="assets/title-commits.svg" width="100%" alt="05 · Commit Log — A year of building." style="max-width: 100%;">
 
-<img src="assets/heatmap.svg" alt="Decorative contribution map — not live GitHub data" width="100%" style="max-height:200px;">
+<p style="color:#E5B5C7; font-size:14px; text-align:center; margin:20px 0;">
+  <strong>Live GitHub contribution graph</strong> — updates automatically from GitHub:
+</p>
 
-<p style="color:#C77B9B; font-size:12px; margin-top:8px; text-align:center;">Note: This is a decorative illustration, not live GitHub contribution data. For live metrics, see the statistics card below.</p>
+<img src="https://github.com/users/hiraypawan/contributions" alt="Live GitHub contribution graph" width="100%" style="max-width:900px; border-radius:12px; border:1px solid #451126;" />
+
+<p style="color:#C77B9B; font-size:12px; margin-top:10px; text-align:center;">
+  This is GitHub's official live contribution graph. It updates in realtime as you push code.
+</p>
 
 <div align="center" style="margin:20px 0;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
