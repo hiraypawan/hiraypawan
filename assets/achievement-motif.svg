@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="100%" height="100%" style="background:#190B12; border-radius:16px; border:1px solid #451126; font-family: 'Georgia', 'Times New Roman', serif;">
+  <defs>
+    <linearGradient id="accentGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#701A3D" />
+      <stop offset="50%" stop-color="#C77B9B" />
+      <stop offset="100%" stop-color="#F8F0F3" />
+    </linearGradient>
+    <filter id="badgeGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="10" flood-color="#C77B9B" flood-opacity="0.4" />
+    </filter>
+  </defs>
+  <rect x="0" y="0" width="1200" height="260" fill="none" rx="16" />
+
+  <!-- Header -->
+  <text x="30" y="55" fill="#F8F0F3" font-size="24" font-weight="bold" letter-spacing="2">Verified Recognition</text>
+  <text x="30" y="82" fill="#C77B9B" font-size="14" letter-spacing="1">Only public GitHub achievements shown.</text>
+
+  <!-- Achievement cards -->
+  <g transform="translate(30, 110)">
+    <rect x="0" y="0" width="340" height="120" rx="12" fill="#10070C" stroke="#451126" stroke-width="1" />
+    <circle cx="40" cy="40" r="18" fill="#701A3D" stroke="#C77B9B" stroke-width="2" />
+    <text x="40" y="45" text-anchor="middle" fill="#F8F0F3" font-size="14" font-weight="bold">YO</text>
+    <text x="75" y="42" fill="#F8F0F3" font-size="18" font-weight="bold" letter-spacing="1">YOLO</text>
+    <text x="75" y="66" fill="#C77B9B" font-size="13">GitHub Achievement</text>
+    <text x="75" y="86" fill="#E5B5C7" font-size="12">Public repositories starred by 25 users</text>
+  </g>
+
+  <g transform="translate(390, 110)">
+    <rect x="0" y="0" width="340" height="120" rx="12" fill="#10070C" stroke="#451126" stroke-width="1" />
+    <circle cx="40" cy="40" r="18" fill="#701A3D" stroke="#C77B9B" stroke-width="2" />
+    <text x="40" y="45" text-anchor="middle" fill="#F8F0F3" font-size="14" font-weight="bold">PS</text>
+    <text x="75" y="42" fill="#F8F0F3" font-size="18" font-weight="bold" letter-spacing="1">Pull Shark</text>
+    <text x="75" y="66" fill="#C77B9B" font-size="13">GitHub Achievement</text>
+    <text x="75" y="86" fill="#E5B5C7" font-size="12">Merged pull requests in others' repos</text>
+  </g>
+
+  <g transform="translate(750, 110)">
+    <rect x="0" y="0" width="340" height="120" rx="12" fill="#10070C" stroke="#451126" stroke-width="1" />
+    <circle cx="40" cy="40" r="18" fill="#701A3D" stroke="#C77B9B" stroke-width="2" />
+    <text x="40" y="45" text-anchor="middle" fill="#F8F0F3" font-size="14" font-weight="bold">PE</text>
+    <text x="75" y="42" fill="#F8F0F3" font-size="18" font-weight="bold" letter-spacing="1">Pair Extraordinaire</text>
+    <text x="75" y="66" fill="#C77B9B" font-size="13">GitHub Achievement</text>
+    <text x="75" y="86" fill="#E5B5C7" font-size="12">Opened a pull request with another user</text>
+  </g>
+</svg>

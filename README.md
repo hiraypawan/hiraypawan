@@ -1,39 +1,37 @@
 <!-- Pawan Hiray — GitHub Profile README -->
 <!-- Verified info from https://github.com/hiraypawan and https://pawanhiray.vercel.app/ -->
 
-<div align="center">
-  <img src="assets/hero.svg" alt="Pawan Hiray — AI Product Developer" width="100%" style="max-height:420px;" />
+<!-- Hero Portrait -->
+<a href="https://pawanhiray.vercel.app/" rel="nofollow">
+  <img src="assets/hero.svg" width="100%" alt="Pawan Hiray — AI Product Developer. Engineering intelligence. Designing experiences." style="max-width: 100%;">
+</a>
+
+<p align="center" dir="auto">
+  <a href="https://pawanhiray.vercel.app/" rel="nofollow"><img src="https://img.shields.io/badge/Portfolio-pawanhiray.vercel.app-701A3D?style=for-the-badge&amp;labelColor=190B12&amp;logoColor=F8F0F3&amp;logo=vercel" alt="Portfolio website" style="max-width: 100%;"></a>
+  <a href="https://github.com/hiraypawan" rel="nofollow"><img src="https://img.shields.io/badge/GitHub-hiraypawan-701A3D?style=for-the-badge&amp;labelColor=190B12&amp;logoColor=F8F0F3&amp;logo=github" alt="GitHub profile" style="max-width: 100%;"></a>
+  <a href="https://www.linkedin.com/in/pawan-hiray/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-pawan_hiray-701A3D?style=for-the-badge&amp;labelColor=190B12&amp;logoColor=F8F0F3&amp;logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0Y4RjBGMyIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjhaTTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTNaTTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDVaTTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMFoiLz48L3N2Zz4=" style="max-width: 100%;"></a>
+  <a href="https://pawanhiray.vercel.app/resume" rel="nofollow"><img src="https://img.shields.io/badge/Resume-pawanhiray.vercel.app-701A3D?style=for-the-badge&amp;labelColor=190B12&amp;logoColor=F8F0F3&amp;logo=adobeacrobatreader" alt="Resume PDF" style="max-width: 100%;"></a>
+</p>
+
+<!-- About -->
+<img src="assets/title-about.svg" width="100%" alt="01 · About — Hello, I'm Pawan." style="max-width: 100%;">
+
+<div dir="auto" style="max-width:700px; margin:0 auto 40px auto; line-height:1.7; color:#E5B5C7; font-size:16px;">
+  I design and build web apps, AI integrations, and browser tools with Next.js, TypeScript, and AI-assisted workflows. My focus: useful products, clear decisions, and work you can inspect.
 </div>
 
----
+<!-- Recognition -->
+<img src="assets/title-recognition.svg" width="100%" alt="02 · Recognition — Proof, on the record." style="max-width: 100%;">
 
-<div align="center">
-  <pre style="background:#10070C; border:1px solid #451126; border-radius:12px; padding:24px; font-family: monospace; color:#F8F0F3; max-width:700px; overflow:auto;">
-<span style="color:#C77B9B;">~/pawan</span> <span style="color:#F8F0F3;">$</span> build --intelligent
+<img src="assets/achievement-motif.svg" width="100%" alt="Verified GitHub achievements: YOLO, Pull Shark, Pair Extraordinaire." style="max-width: 100%;">
 
-<span style="color:#F8F0F3;">Pawan Hiray — AI Product Developer · Mumbai, India</span>
-<span style="color:#C77B9B;">Web apps · AI integrations · Browser tools</span>
-<span style="color:#F8F0F3;">Next.js · TypeScript · Gemini · Cloudflare</span>
-  </pre>
-</div>
+<p style="color:#C77B9B; font-size:12px; margin-top:8px;">Only verified public achievements shown. No unverified awards or statistics included.</p>
 
----
+<!-- Selected Work -->
+<img src="assets/title-work.svg" width="100%" alt="03 · Selected Work — Products, not assignments." style="max-width: 100%;">
 
-## 01 · About
-
-<div align="center" style="max-width:600px; margin:0 auto;">
-  <h2 style="color:#F8F0F3; font-size:32px; letter-spacing:2px; margin-bottom:8px;">Hello, I'm <span style="color:#C77B9B;">Pawan.</span></h2>
-  <p style="color:#E5B5C7; font-size:16px; line-height:1.7; margin:0;">
-    I design and build web apps, AI integrations, and browser tools with Next.js, TypeScript, and AI-assisted workflows. My focus: useful products, clear decisions, and work you can inspect.
-  </p>
-</div>
-
----
-
-## 02 · Products, not assignments.
-
-<div align="center">
-  <table style="border:none; border-radius:20px; overflow:hidden; background:#10070C; max-width:1100px; margin:0 auto;">
+<div align="center" style="margin:30px 0;">
+  <table style="border:none; border-radius:20px; overflow:hidden; background:#10070C; max-width:1000px; margin:0 auto 30px auto; border:1px solid #451126;">
     <tr>
       <td style="padding:40px 32px; vertical-align:top; width:55%; border-right:1px solid #190B12;">
         <div style="background:#190B12; border-radius:16px; padding:32px; height:100%; border:1px solid #451126;">
@@ -72,8 +70,8 @@
   </table>
 </div>
 
-<div align="center" style="margin-top:40px;">
-  <table style="border:none; border-radius:20px; overflow:hidden; background:#10070C; max-width:1100px; margin:0 auto;">
+<div align="center" style="margin:0 0 30px 0;">
+  <table style="border:none; border-radius:20px; overflow:hidden; background:#10070C; max-width:1000px; margin:0 auto 30px auto; border:1px solid #451126;">
     <tr>
       <td style="padding:40px 32px; vertical-align:top; width:55%; border-right:1px solid #190B12;">
         <div style="background:#190B12; border-radius:16px; padding:32px; height:100%; border:1px solid #451126;">
@@ -112,8 +110,8 @@
   </table>
 </div>
 
-<div align="center" style="margin-top:40px;">
-  <table style="border:none; border-radius:20px; overflow:hidden; background:#10070C; max-width:1100px; margin:0 auto;">
+<div align="center" style="margin:0 0 40px 0;">
+  <table style="border:none; border-radius:20px; overflow:hidden; background:#10070C; max-width:1000px; margin:0 auto; border:1px solid #451126;">
     <tr>
       <td style="padding:40px 32px; vertical-align:top; width:55%; border-right:1px solid #190B12;">
         <div style="background:#190B12; border-radius:16px; padding:32px; height:100%; border:1px solid #451126;">
@@ -152,74 +150,13 @@
   </table>
 </div>
 
-### More verified builds (from portfolio)
+<p style="color:#C77B9B; font-size:12px; margin-top:24px; text-align:center;">Project descriptions and implementations are owner-reported. No independently audited metrics are implied.</p>
+
+<!-- Toolkit -->
+<img src="assets/title-toolkit.svg" width="100%" alt="04 · Toolkit — The tools I reach for." style="max-width: 100%;">
 
 <div align="center">
-  <table style="border:none; border-radius:16px; overflow:hidden; background:#190B12; border:1px solid #451126; max-width:700px; margin:20px auto;">
-    <tr style="background:#451126;">
-      <th style="padding:12px; color:#F8F0F3; text-align:left; font-size:13px; letter-spacing:1px; text-transform:uppercase;">Project</th>
-      <th style="padding:12px; color:#F8F0F3; text-align:left; font-size:13px; letter-spacing:1px; text-transform:uppercase;">Stack</th>
-    </tr>
-    <tr>
-      <td style="padding:10px; color:#F8F0F3; font-size:13px;">SmartBotX</td>
-      <td style="padding:10px; color:#C77B9B; font-size:13px;">Node.js · OpenAI API · Telegram API</td>
-    </tr>
-    <tr style="background:#150C14;">
-      <td style="padding:10px; color:#F8F0F3; font-size:13px;">YtStop</td>
-      <td style="padding:10px; color:#C77B9B; font-size:13px;">JavaScript · Chrome MV3</td>
-    </tr>
-    <tr>
-      <td style="padding:10px; color:#F8F0F3; font-size:13px;">DigitalWorkForce</td>
-      <td style="padding:10px; color:#C77B9B; font-size:13px;">Next.js · MongoDB · JWT · Stripe</td>
-    </tr>
-    <tr style="background:#150C14;">
-      <td style="padding:10px; color:#F8F0F3; font-size:13px;">VibeCoder Pro</td>
-      <td style="padding:10px; color:#C77B9B; font-size:13px;">Next.js · Cloudflare Workers · Monaco</td>
-    </tr>
-    <tr>
-      <td style="padding:10px; color:#F8F0F3; font-size:13px;">PeoplePole</td>
-      <td style="padding:10px; color:#C77B9B; font-size:13px;">React · Vite · Leaflet · Express · MongoDB</td>
-    </tr>
-    <tr style="background:#150C14;">
-      <td style="padding:10px; color:#F8F0F3; font-size:13px;">Hand Cricket Pro</td>
-      <td style="padding:10px; color:#C77B9B; font-size:13px;">JavaScript · Cloudflare Pages · Workers KV</td>
-    </tr>
-  </table>
-</div>
-
-*Project descriptions and implementations are owner-reported. No independently audited metrics are implied.*
-
----
-
-## 03 · Recognition (Verified)
-
-<div align="center">
-  <table style="border:none; background:#190B12; border-radius:16px; padding:24px; border:1px solid #451126;">
-    <tr>
-      <td style="text-align:center; padding:16px 24px;">
-        <strong style="font-size:20px; color:#F8F0F3;">YOLO</strong><br/>
-        <span style="font-size:12px; color:#C77B9B;">GitHub Achievement</span>
-      </td>
-      <td style="text-align:center; padding:16px 24px;">
-        <strong style="font-size:20px; color:#F8F0F3;">Pull Shark</strong><br/>
-        <span style="font-size:12px; color:#C77B9B;">GitHub Achievement</span>
-      </td>
-      <td style="text-align:center; padding:16px 24px;">
-        <strong style="font-size:20px; color:#F8F0F3;">Pair Extraordinaire</strong><br/>
-        <span style="font-size:12px; color:#C77B9B;">GitHub Achievement</span>
-      </td>
-    </tr>
-  </table>
-</div>
-
-> Only verified public achievements shown. No unverified awards or statistics included.
-
----
-
-## 04 · Skills (Verified from repos + portfolio)
-
-<div align="center">
-  <table style="border-collapse:collapse; width:100%; max-width:700px; background:#190B12; border-radius:16px; overflow:hidden; border:1px solid #451126;">
+  <table style="border-collapse:collapse; width:100%; max-width:700px; background:#190B12; border-radius:16px; overflow:hidden; border:1px solid #451126; margin:20px auto;">
     <tr style="background:#451126;">
       <th style="padding:14px; color:#F8F0F3; text-align:left; font-size:13px; letter-spacing:1px; text-transform:uppercase;">Primary</th>
       <th style="padding:14px; color:#F8F0F3; text-align:left; font-size:13px; letter-spacing:1px; text-transform:uppercase;">Where used</th>
@@ -247,52 +184,30 @@
   </table>
 </div>
 
----
+<!-- Commit Log -->
+<img src="assets/title-commits.svg" width="100%" alt="05 · Commit Log — A year of building." style="max-width: 100%;">
 
-## 05 · Proof / Activity Map
+<img src="assets/heatmap.svg" alt="Decorative contribution map — not live GitHub data" width="100%" style="max-height:200px;">
 
-<img src="assets/heatmap.svg" alt="Decorative contribution map — not live GitHub data" width="100%" style="max-height:200px;" />
+<p style="color:#C77B9B; font-size:12px; margin-top:8px; text-align:center;">Note: This is a decorative illustration, not live GitHub contribution data. For live metrics, see the statistics card below.</p>
 
-> **Note:** This is a decorative illustration, not live GitHub contribution data. For live metrics, see the statistics card below.
-
----
-
-## 06 · Statistics (Reliable Service)
-
-<div align="center">
+<div align="center" style="margin:20px 0;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=hiraypawan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=10070C&title_color=F8F0F3&text_color=C77B9B" alt="Verified GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=hiraypawan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=10070C&title_color=F8F0F3&text_color=C77B9B" alt="Verified GitHub Stats" style="max-width: 100%;">
   </a>
 </div>
 
----
+<!-- Connect -->
+<img src="assets/title-connect.svg" width="100%" alt="07 · Connect — Let's build something worth explaining." style="max-width: 100%;">
 
-## 07 · Verified Links & Evidence
+<p align="center" dir="auto">
+  <a href="mailto:sushmitadasari17@gmail.com"><img src="https://img.shields.io/badge/Email-contact-701A3D?style=for-the-badge&amp;labelColor=190B12&amp;logoColor=F8F0F3&amp;logo=gmail" alt="Email contact" style="max-width: 100%;"></a>
+  <a href="https://www.linkedin.com/in/pawan-hiray/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-pawan_hiray-701A3D?style=for-the-badge&amp;labelColor=190B12&amp;logoColor=F8F0F3&amp;logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0Y4RjBGMyIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjhaTTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTNaTTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDVaTTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMFoiLz48L3N2Zz4=" style="max-width: 100%;"></a>
+  <a href="https://github.com/hiraypawan" rel="nofollow"><img src="https://img.shields.io/badge/GitHub-hiraypawan-701A3D?style=for-the-badge&amp;labelColor=190B12&amp;logoColor=F8F0F3&amp;logo=github" alt="GitHub profile" style="max-width: 100%;"></a>
+  <a href="https://pawanhiray.vercel.app/" rel="nofollow"><img src="https://img.shields.io/badge/Portfolio-pawanhiray.vercel.app-701A3D?style=for-the-badge&amp;labelColor=190B12&amp;logoColor=F8F0F3&amp;logo=vercel" alt="Portfolio website" style="max-width: 100%;"></a>
+</p>
 
-<div align="center" style="margin-top:20px;">
-  <table style="border:none; background:#190B12; border-radius:16px; padding:24px; border:1px solid #451126; max-width:600px; margin:0 auto;">
-    <tr>
-      <td style="text-align:center; padding:10px 20px;">
-        <a href="https://pawanhiray.vercel.app/" style="color:#F8F0F3; text-decoration:none; font-weight:bold;">Portfolio</a>
-      </td>
-      <td style="text-align:center; padding:10px 20px;">
-        <a href="https://github.com/hiraypawan" style="color:#F8F0F3; text-decoration:none; font-weight:bold;">GitHub</a>
-      </td>
-      <td style="text-align:center; padding:10px 20px;">
-        <a href="https://www.linkedin.com/in/pawan-hiray/" style="color:#F8F0F3; text-decoration:none; font-weight:bold;">LinkedIn</a>
-      </td>
-      <td style="text-align:center; padding:10px 20px;">
-        <a href="https://pawanhiray.vercel.app/resume" style="color:#F8F0F3; text-decoration:none; font-weight:bold;">Resume</a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 08 · Footer
-
-<div align="center">
-  <img src="assets/footer.svg" alt="Footer" width="100%" style="max-height:80px;" />
-  <p style="color:#E5B5C7; font-size:13px; letter-spacing:2px; margin-top:12px; text-transform:uppercase;">Built with verified data only. No fabricated metrics. No private contact details.</p>
-</div>
+<!-- Footer -->
+<a href="https://pawanhiray.vercel.app/" rel="nofollow">
+  <img src="assets/footer-signature.svg" width="100%" alt="Pawan — Building AI products that can explain themselves." style="max-width: 100%;">
+</a>
